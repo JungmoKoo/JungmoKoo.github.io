@@ -9,7 +9,13 @@ baseurl:
 # Title of the Site
 title: Jungmo Koo
 # Description of the Site
-description: I am an AI researcher
+#description: I am an AI researcher
+description:
+  "
+  <br>
+  <i>The only limit is your imagination.</i><br>
+  <i>유일한 한계는 우리의 상상력이다.</i><br>
+  "
 # URL of Image of the Site
 site-image: ../images/ai_bg.jpg
 # Keywords of the Site
@@ -28,7 +34,7 @@ heroimage: https://raw.githubusercontent.com/JungmoKoo/jungmokoo.github.io/maste
 email: gooj978@gmail.com
 facebook_username: /
 twitter_username: /
-instagram_username: microkoo
+instagram_username: jungmographer
 linkedin_username: jungmokoo
 github_username:  jungmokoo
 youtube_channel_id: UCl_YmO5FEfPdKOnRuIevdYg
@@ -49,21 +55,22 @@ author-name: Jungmo Koo
 #author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 author-image: "../assets/images/JM.jpg"
 # 60 Words About the Author
-author-about: "
-<b>Research interest</b><br>
-Artificial intelligence in computer vision<br>
- - I aim for recognition systems that can be run in a real world environment.<br>
-<br>
-<b>Education</b><br>
- - Ph.D. in Electrical Engineering (Adviser: Prof. Hyun Myung) / KAIST / Feb. 2017 - Present<br>
- - M.S. in Civil and Environmental Engineering (Adviser: Prof. Hyun Myung) / KAIST / Feb. 2015 - Feb. 2017<br>
- - B.S. in Electronic Engineering / Kyung Hee Univ. / Mar. 2009 - Feb. 2015<br>
-<br>
- <b>Experience</b><br>
- - Seadronix Corp. / Team leader / Mar. 2020 - Feb. 2021<br>
- - DJI Developer Challenge / Finalist / Feb. 2015 - Feb. 2017<br>
- - KRISO (Korea Research Institute of Ships & Ocean Engineering) / Research intern / June 2015 - July 2015<br>
- "
+author-about:
+#<b>Research interest</b><br>
+#Artificial intelligence in computer vision<br>
+# - I aim for recognition systems that can be run in a real world environment.<br>
+#<br>
+#<b>Education</b><br>
+# - "Ph.D. in Electrical Engineering (Adviser: Prof. Hyun Myung) / KAIST / Feb. 2017 - Present"<br>
+# - M.S. in Civil and Environmental Engineering (Adviser: Prof. Hyun Myung) / KAIST / Feb. 2015 - Feb. 2017<br>
+# - B.S. in Electronic Engineering / Kyung Hee Univ. / Mar. 2009 - Feb. 2015<br>
+#<br>
+# <b>Experience</b><br>
+# - [WORK] Seadronix Corp. / Team leader / Mar. 2020 - Feb. 2021<br>
+# - [CLASS] Intelligent robot experiment(RE510, KAIST) / General assistant / Feb. 2015 - Feb. 2017<br>
+# - [CHALLENGE] DJI Developer Challenge / Finalist / Feb. 2015 - Feb. 2017<br>
+# - [WORK] KRISO (Korea Research Institute of Ships & Ocean Engineering) / Research intern / June 2015 - July 2015<br>
+
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://www.linkedin.com/in/jungmo-koo/
 

@@ -74,7 +74,11 @@ a.navbar-item.is-active {
         margin: auto;
 
         img {
+            //width: 800px;
+            height: 500px;
+            object-fit: cover;
             //border: 0.25rem dotted black;
+            //border: 0.5rem solid lightgray;
         }
     }
 
