@@ -13,14 +13,15 @@ description: I am an AI researcher
 # URL of Image of the Site
 site-image: ../images/ai_bg.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: AI, Research, Deep learning, Blog, Jungmo Koo
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 #heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
-heroimage: ../images/ai_bg.jpg
-#heroimage: ../images/JM.jpg
+heroimage: https://raw.githubusercontent.com/JungmoKoo/jungmokoo.github.io/master/assets/images/ai_bg.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+#heroimage: ../images/ai_bg.jpg
+#heroimage: "../assets/images/ai_bg.jpg"
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
