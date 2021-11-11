@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jungmokoo.github.io/sitemap.xml
